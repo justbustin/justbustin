@@ -9,12 +9,14 @@ I like long walks on the beach and $60 video games! Interested in software dev, 
 
 Live projects:
 
-https://playlistscompare.me
+[Playlists Compare](https://playlistscompare.me)
 
-https://keyo.ai
+[Keyo | Stable Diffusion Wordle Game](https://keyo.ai)
+
 
 Other projects:
-https://devpost.com/software/tastyfood | https://github.com/willerf/TastyDinner
 
-https://github.com/yelnady/Speech-Captioner-for-English-Videos
+[Tasty Dinner, winner at Hackathon](https://github.com/willerf/TastyDinner) [Devpost](https://devpost.com/software/tastyfood)
+
+[Auto Video Captioner](https://github.com/yelnady/Speech-Captioner-for-English-Videos)
 
