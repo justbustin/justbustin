@@ -16,7 +16,7 @@ Live projects:
 
 Other projects:
 
-[Tasty Dinner, winner at Hackathon](https://github.com/willerf/TastyDinner) [Devpost](https://devpost.com/software/tastyfood)
+[Tasty Dinner, winner at Hackathon](https://github.com/willerf/TastyDinner) | [Devpost](https://devpost.com/software/tastyfood)
 
 [Auto Video Captioner](https://github.com/yelnady/Speech-Captioner-for-English-Videos)
 
